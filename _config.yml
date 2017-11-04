@@ -25,9 +25,12 @@ github_username:  mikewolfson
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+  
+title: RemoteTeamwork.org
+description: Connecting people all over the world, to resources related to working remotely
