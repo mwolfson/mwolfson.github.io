@@ -24,13 +24,12 @@ twitter_username: remoteteamwork
 github_username:  mikewolfson
 
 # Build settings
-markdown: kramdown
-theme: jekyll-theme-slate
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+theme: minima
   
 title: RemoteTeamwork.org
 description: Connecting people all over the world, to resources related to working remotely
