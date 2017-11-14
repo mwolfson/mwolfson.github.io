@@ -4,7 +4,7 @@ title: Join Us
 permalink: /joinus/
 ---
 
-![Book Cover]({{ "/assets/BookCover.png" | absolute_url }})
+| ![left 50% Book Cover]({{ "/assets/BookCover.png" | absolute_url }}) | We are collecting a group of folks from around the world to collaborate. |
 
 We are collecting a group of folks from around the world to collaborate.
 
