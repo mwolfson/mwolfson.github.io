@@ -4,6 +4,7 @@ body {
 	font-family: $font-style;
 	font-size: 1.1em;
 	line-height: 1.6;
+	background-color: $background;
 	-webkit-font-smoothing: antialiased;
 }
 h1,
@@ -40,8 +41,8 @@ header {
 	background: $header;
 	padding: 0px 15px;
 	text-align: center;
-	margin: 50px 0 0;
-	height: 50vh;
+	margin: 25px 0 0;
+	height: 25vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
