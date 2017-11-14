@@ -4,6 +4,8 @@ title: Join Us
 permalink: /joinus/
 ---
 
+![Book Cover]({{ "/assets/BookCover.png" | absolute_url }})
+
 We are collecting a group of folks from around the world to collaborate.
 
 The intention of gathering such a diverse group of people to be involved in this project, is to prove that working on something remotely can be fun and productive.
